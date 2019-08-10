@@ -18,3 +18,4 @@ link
 def any_phrase(phrase)
   puts "Do A Barrel Roll!"
   end
+  any_phrase(phrase)
