@@ -4,3 +4,17 @@ def mario
 end
 mario
   
+def toadstool
+  puts status = "Thank You Mario! But Our Princess Is In Another Castle!"
+end
+toadstool
+
+
+def link
+  puts "It's Dangerous To Go Alone! Take This"
+end
+link
+
+def any_phrase(phrase)
+  puts "Do A Barrel Roll!"
+  end
